@@ -1,4 +1,4 @@
-# MERN Stripe Store
+# Simple Stripe Store
 
 A small full-stack Stripe checkout app built with React + Vite on the frontend and Express on the backend.
 
